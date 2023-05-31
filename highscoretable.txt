@@ -1,0 +1,12 @@
+Kaan 130 
+Ali 100 
+Yeliz 120 
+Cem 140 
+Can 100 
+Pelin 110 
+Ece 140 
+Sibel 150 
+Ayşe 120 
+Berk 160 
+Ege 120 
+Ada 80
